@@ -125,14 +125,10 @@ navigation_header:
   url: /
 - title: Submit
   url: /submit/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
-- title: Search
-  url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+- title: Masthead
+  url: /masthead/
+- title: Issues Archive
+  url: /archive/
 
 navigation_footer:
 - title: Spark to Flame

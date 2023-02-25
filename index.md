@@ -1,5 +1,5 @@
 ---
-title: About Spark to Flame
+title: 
 feature_text: |
   ## Spark to Flame
   A Journal of Collaborative Poetry
