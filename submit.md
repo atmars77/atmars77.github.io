@@ -9,9 +9,9 @@ excerpt: "Submit to Spark to Flame"
 To submit to Issue One, please fill out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScK-5ArvstWpBkvBcw4TYKUSAPVl5In5AHuAPFlRvVUN_zhCA/viewform).
 Please email s2fjournal(at)gmail.com with any questions or queries.
 
-<h2>FAQ</h2>
+<p style= "text-align:center"> <h2>FAQ</h2> </p>
 
-<h3>What are your basic guidelines for poems?</h3>
+What are your basic guidelines for poems?
 
 * Your standard stuff: interesting, makes us feel things, uses language in an awesome way, does multiple things at once
 * No racism / excessive or hate-based violence / sexism
@@ -19,7 +19,7 @@ Please email s2fjournal(at)gmail.com with any questions or queries.
 * No previously published poems.
 * Simultaneous submissions are welcome. Please let us know if your work is accepted for publication elsewhere as soon as possible.
 
-<h3>What is a fragment and what makes a good one?</h3>
+What is a fragment?
 
 * A rough draft of a poem or loosely-related sentences / phrases
 * Descriptive language
@@ -28,17 +28,17 @@ Please email s2fjournal(at)gmail.com with any questions or queries.
 * Approximately 50-100 words
 * Understand and welcome the fact that the final poem may have elements that are not from your own lived experience or identity.
 
-<h3>How do I write a poem off of the fragment I’m given?</h3>
+How do I write a poem off of the fragment I’m given?
 
 * We want writers to build the spark into something that only they could create. To say [“yes and…”](https://en.wikipedia.org/wiki/Yes,_and...) The spark is the inspiration, but it is not a blueprint, and we give you full permission to burn. Use it.
 * We encourage writers to incorporate their own lived experiences and identities when writing their final poem, whether or not those elements may have been present in the original spark.
 
-<h3>Can I submit in multiple categories? </h3>
+Can I submit in multiple categories?
 
 * Yes, you may submit one finished, co-authored poem and one fragment. You may also check the box to write a poem based off of someone else’s fragment.
 * Please do not submit more than one finished poem and one fragment during a single submission period. Wait until you get a response.
 
-<h3>How long until I hear back?</h3>
+How long until I hear back?
 
 * We aim to respond to all contributors by April 10th. If this changes, we will send out an email update.
 * Our approximate/ideal timeline for the first issue is:
@@ -47,12 +47,12 @@ Please email s2fjournal(at)gmail.com with any questions or queries.
 - May 10th - Final poems based on fragments due
 - June 1st - Launch of the first issue
 
-<h3>What happens if I’m selected to write a poem off of someone’s fragment?</h3>
+What happens if I’m selected to write a poem off of someone’s fragment?
 
 * We will email you the anonymized fragment for you to use to create a poem in one month.
 * Pending any edits on our side, that poem will be published in the upcoming issue.
 
-<h3> If I’m selected to write a poem off of someone else’s fragment, does that mean publication of whatever I write is guaranteed? </h3>
+If I’m selected to write a poem off of someone else’s fragment, does that mean publication of whatever I write is guaranteed?
 
 * Pretty much yes, with the following exceptions:
 * There is no connection between the fragment and the poem you produced.
@@ -60,16 +60,16 @@ Please email s2fjournal(at)gmail.com with any questions or queries.
 * There is a serious thematic issue with your poem that no amount of editing will resolve. (Please see FAQ Question 1 “Basic Guidelines for Poems”).
 * If the poem based off of your fragment is rejected, your fragment will be given to someone else to turn into a completed poem for the next issue of the journal.
 
-<h3> How are bylines written? What if I hate what my co-author wrote off of my fragments? </h3>
+How are bylines written? What if I hate what my co-author wrote off of my fragments?
 
 * Both authors’ names will be included in the byline, but we will distinguish between the author who provided the fragment (spark) and the author who constructed the final poem (flame). For example: By Natalie Wolf (Flame) and Katherine Schmidt (Spark).
 * Spark writers should understand that the final poem may have elements that are not from their own lived experiences or identities.
 
-<h3> Do you have submission fees? Do you pay for published poems?</h3>
+Do you have submission fees? Do you pay for published poems?
 
 * We do not have submission fees, and at this time we do not pay for published poems.
 
-<h3> By submitting to us, you acknowledge and agree to the following: </h3>
+By submitting to us, you acknowledge and agree to the following:
 
 * You hold the necessary rights to your work and, when applicable, are acting in accordance with your co-author.
 * Upon acceptance, we request first serial rights for publication on our website. Upon publication, rights revert back to the authors.
