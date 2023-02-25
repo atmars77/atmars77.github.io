@@ -1,16 +1,16 @@
 ---
-title: #About Alembic
+title: About Spark to Flame
 feature_text: |
   ## Spark to Flame
   A Journal of Collaborative Poetry
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "S2F is a literary journal that creates connections between poets. We want poets who lean in and say “yes.” Poets who play with language and who are not afraid of what they might make."
+excerpt: "Spark to Flame: A Journal of Collaborative Poetry."
 ---
-## About 
+S2F is a literary journal that creates connections between poets. We want poets who lean in and say “yes.” Poets who play with language and who are not afraid of what they might make
 
 We pair poets to co-author poetry anonymously through submissions of “fragments” (sparks). If a fragment is accepted, it is then sent to another author, who turns it into a cohesive poem (flame). You can choose to submit a fragment and edit someone else’s fragment, or to only submit a fragment. We also accept polished, co-authored poetry submissions.
 
-We are currently accepting submissions for our first issue, to be published on our website and promoted on [Twitter](https://twitter.com/s2fjournal). We will be accepting submissions through March 31st.
+We are currently accepting submissions for our first issue, to be published on our website and promoted on [Twitter](https://twitter.com/s2fjournal). We will be accepting submissions through March 31st 2023.
 
 <!---{% include button.html text="Submit" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 -->
