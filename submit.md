@@ -1,9 +1,9 @@
 ---
 title: 
 feature_text: |
-  ## Submissions
-  Instructions & FAQ
-feature_image: "https://atmars77.github.io/assets/Images/corina_smoke.jpg"
+  ## Submission Instructions & FAQ
+ 
+feature_image: "https://atmars77.github.io/assets/Images/ben_spark.jpg"
 excerpt: "Submit to Spark to Flame"
 ---
 To submit to Issue One, please fill out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScK-5ArvstWpBkvBcw4TYKUSAPVl5In5AHuAPFlRvVUN_zhCA/viewform).
