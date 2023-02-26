@@ -2,7 +2,7 @@
 title: 
 feature_text: |
   ## Spark to Flame
-<font color= "white"> A Journal of Collaborative Poetry </font>
+  A Journal of Collaborative Poetry
 feature_image: https://atmars77.github.io/assets/Images/ben_spark.jpg #"https://.."
 excerpt: "Spark to Flame: A Journal of Collaborative Poetry."
 ---
