@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## Submissions
   Instructions & FAQ
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://atmars77.github.io/assets/Images/corina_smoke.jpg"
 excerpt: "Submit to Spark to Flame"
 ---
 To submit to Issue One, please fill out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScK-5ArvstWpBkvBcw4TYKUSAPVl5In5AHuAPFlRvVUN_zhCA/viewform).

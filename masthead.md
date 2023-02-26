@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## Masthead
   
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://atmars77.github.io/assets/Images/corina_smoke.jpg"
 excerpt: "Masthead"
 ---
 KS is a researcher and poet currently based in Washington, D.C. Her poetry has been published in 3Elements Literary Review, Unbroken, and New Note Poetry.
