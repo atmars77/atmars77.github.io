@@ -10,4 +10,4 @@ KS is a researcher and poet currently based in Washington, D.C. Her poetry has b
 
 NW is a writer and cat enthusiast from Kansas City. Her short fiction and poetry have appeared in Unbroken, Right Hand Pointing, Popshot Quarterly, I-70 Review, and Live Ideas.
 
-RP is a graphic designer and illustrator.
+RP is the journal's graphic designer and illustrator.
