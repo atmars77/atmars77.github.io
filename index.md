@@ -15,7 +15,8 @@ We are currently accepting submissions for our first issue, to be published on o
 <!---{% include button.html text="Submit" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 -->
 
-[Issue One](https://atmars77.github.io/assets/Issues/test_issueone.pdf)
+<!--[Issue One](https://atmars77.github.io/assets/Issues/test_issueone.pdf)
+-->
 
 <!---
 - Available as a **theme gem** and **GitHub Pages** theme
