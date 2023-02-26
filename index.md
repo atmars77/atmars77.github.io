@@ -1,8 +1,8 @@
 ---
 title: 
 feature_text: |
-  Spark to Flame
-  A Journal of Collaborative Poetry
+  ## Spark to Flame
+  ## A Journal of Collaborative Poetry
 feature_image: https://atmars77.github.io/assets/Images/ben_spark.jpg #"https://.."
 excerpt: "Spark to Flame: A Journal of Collaborative Poetry."
 ---
