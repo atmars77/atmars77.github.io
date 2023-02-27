@@ -1,8 +1,8 @@
 ---
 title: 
 feature_text: |
-  ## Submission Instructions & FAQ
- 
+  ## Submit
+  Instructions & FAQ
 feature_image: "https://atmars77.github.io/assets/Images/ben_spark.jpg"
 excerpt: "Submit to Spark to Flame"
 ---
