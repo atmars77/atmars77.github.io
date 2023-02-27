@@ -70,7 +70,7 @@ Please email s2fjournal(at)gmail.com with any questions or queries.</p>
       <li style="color:black">There is a serious thematic issue with your poem that no amount of editing will resolve. (Please see FAQ Question 1 “Basic Guidelines for Poems”).</li>
       <li style="color:black">If the poem based off of your fragment is rejected, your fragment will be given to someone else to turn into a completed poem for the next issue of the journal.</li>
     </ul>
-<ul>
+</ul>
 
 <p style="color:black">How are bylines written? What if I hate what my co-author wrote off of my fragments?</p>
   <ul>
