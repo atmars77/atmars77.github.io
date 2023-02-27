@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## Submit
   Instructions & FAQ
-feature_image: "assets/Images/tina_candle.jpg"
+feature_image: "/assets/Images/tina_candle.jpg"
 excerpt: "Submit to Spark to Flame"
 ---
 We are currently open for submissions for Issue One. We will be accepting submissions through March 31st.
@@ -28,7 +28,7 @@ To submit, fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQL
 * Understand and welcome the fact that the final poem may have elements that are not from your own lived experience or identity.
 
 # How do I write a poem off of the fragment I’m given?
-* We want writers to build the spark into something that only they could create. To say “yes and…” The spark is the inspiration, but it is not a blueprint, and we give you full permission to burn. Use it.
+* We want writers to build the spark into something that only they could create. To say [“yes and…”](https://en.wikipedia.org/wiki/Yes,_and...) The spark is the inspiration, but it is not a blueprint, and we give you full permission to burn. Use it.
 * We encourage writers to incorporate their own lived experiences and identities when writing their final poem, whether or not those elements may have been present in the original spark.
 
 # Can I submit in multiple categories?
@@ -60,7 +60,8 @@ To submit, fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQL
 
 # Do you have submission fees? Do you pay for published poems?
 * We do not have submission fees, and at this time we do not pay for published poems.
-* By submitting to us, you acknowledge and agree to the following:
+
+# By submitting to us, you acknowledge and agree to the following:
 * You hold the necessary rights to your work and, when applicable, are acting in accordance with your co-author.
 * Upon acceptance, we request first serial rights for publication on our website. Upon publication, rights revert back to the authors.
 * Your work will be published and archived in an online-only magazine.

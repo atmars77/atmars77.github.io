@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## Masthead
   
-feature_image: "assets/Images/tina_candle.jpg"
+feature_image: "/assets/Images/tina_candle.jpg"
 excerpt: "Masthead"
 ---
 Katherine Schmidt is a researcher and poet currently based in Washington, D.C. Her poetry has been published in 3Elements Literary Review, Unbroken, and New Note Poetry.
