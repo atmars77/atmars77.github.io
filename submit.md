@@ -62,14 +62,15 @@ Please email s2fjournal(at)gmail.com with any questions or queries.</p>
   </ul>
 
 <p style="color:black">If I’m selected to write a poem off of someone else’s fragment, does that mean publication of whatever I write is guaranteed?</p>
-
-<p style="color:black">Pretty much yes, with the following exceptions:</p> 
-  <ul>
-   <li style="color:black">There is no connection between the fragment and the poem you produced. </li>
-   <li style="color:black">We don’t receive a response from you within the allotted time frame.</li>
-   <li style="color:black">There is a serious thematic issue with your poem that no amount of editing will resolve. (Please see FAQ Question 1 “Basic Guidelines for Poems”).</li>
-   <li style="color:black">If the poem based off of your fragment is rejected, your fragment will be given to someone else to turn into a completed poem for the next issue of the journal.</li>
-  </ul>
+<ul>
+  <li style="color:black">Pretty much yes, with the following exceptions:</li>
+    <ul>
+      <li style="color:black">There is no connection between the fragment and the poem you produced. </li>
+      <li style="color:black">We don’t receive a response from you within the allotted time frame.</li>
+      <li style="color:black">There is a serious thematic issue with your poem that no amount of editing will resolve. (Please see FAQ Question 1 “Basic Guidelines for Poems”).</li>
+      <li style="color:black">If the poem based off of your fragment is rejected, your fragment will be given to someone else to turn into a completed poem for the next issue of the journal.</li>
+    </ul>
+<ul>
 
 <p style="color:black">How are bylines written? What if I hate what my co-author wrote off of my fragments?</p>
   <ul>
