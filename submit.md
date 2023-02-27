@@ -45,14 +45,13 @@ Please email s2fjournal(at)gmail.com with any questions or queries.</p>
 <p style="color:black"> How long until I hear back?</p>
   <ul>
     <li style="color:black">We aim to respond to all contributors by April 10th. If this changes, we will send out an email update. </li>
-    <li style="color:black">Our approximate/ideal timeline for the first issue is:
+    <li style="color:black">Our approximate/ideal timeline for the first issue is:</li>
       <ul>
         <li style="color:black">April 30th - Submissions close </li>
         <li style="color:black">May 10th - Contributors will hear back about acceptance </li>
         <li style="color:black">June 10th - Final poems based on fragments due </li>
         <li style="color:black">July 1st - Launch of the first issue </li>
       </ul>
-    </li>
   </ul>
 
 <p style="color:black">What happens if I’m selected to write a poem off of someone’s fragment?</p>
