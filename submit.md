@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## Submit
   Instructions & FAQ
-feature_image: "https://s2fjournal.com/assets/Images/ben_spark.jpg"
+feature_image: "/assets/Images/ben_spark.jpg"
 excerpt: "Submit to Spark to Flame"
 ---
 <p style="color:black"> 

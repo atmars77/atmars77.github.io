@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## Masthead
   
-feature_image: "https://s2fjournal.com/assets/Images/ben_spark.jpg"
+feature_image: "/assets/Images/ben_spark.jpg"
 excerpt: "Masthead"
 ---
 <p style="color:black"> Katherine Schmidt is a researcher and poet currently based in Washington, D.C. Her poetry has been published in 3Elements Literary Review, Unbroken, and New Note Poetry. </p>
