@@ -10,7 +10,7 @@ We are currently open for submissions for Issue One. We will be accepting submis
 
 To submit, fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScK-5ArvstWpBkvBcw4TYKUSAPVl5In5AHuAPFlRvVUN_zhCA/viewform).
 
-# FAQ
+<h2 style="text-align: center;"> FAQ </h3>
 
 # What are your basic guidelines for poems?
 * Your standard stuff: interesting, makes us feel things, uses language in an awesome way, does multiple things at once
