@@ -6,25 +6,22 @@ feature_text: |
 feature_image: "https://atmars77.github.io/assets/Images/ben_spark.jpg"
 excerpt: "Submit to Spark to Flame"
 ---
-<p style="color:black"> To submit to Issue One, please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScK-5ArvstWpBkvBcw4TYKUSAPVl5In5AHuAPFlRvVUN_zhCA/viewform">Google Form</a>. </p>
+<p style="color:blue"> 
+To submit to Issue One, please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScK-5ArvstWpBkvBcw4TYKUSAPVl5In5AHuAPFlRvVUN_zhCA/viewform">Google Form</a>. 
 
-<p style="color:black"> Please email s2fjournal(at)gmail.com with any questions or queries.</p>
+Please email s2fjournal(at)gmail.com with any questions or queries.
 
-<p style="color:black"><center> <h2>FAQ</h2> </center></p>
-
-<p style="color:black"> What are your basic guidelines for poems?</p>
-<p style="color:black">
+<h2>FAQ</h2>
+<p>What are your basic guidelines for poems?</p>
 <ul>
-  <li>Your standard stuff: interesting, makes us feel things, uses language in an awesome way, does multiple things at once </li>
+  <li>Your standard stuff: interesting, makes us feel things, uses language in an awesome way, does multiple things at once</li>
   <li>No racism / excessive or hate-based violence / sexism </li>
   <li>We love shorter poems. No longer than 300 words for the final poem, please. </li>
-  <li>No previously published poems. </li>
-  <li>Simultaneous submissions are welcome. Please let us know if your work is accepted for publication elsewhere as soon as possible. </li>
+  <li>No previously published poems.</li>
+  <li>Simultaneous submissions are welcome. Please let us know if your work is accepted for publication elsewhere as soon as possible.</li>
 </ul>
-</p>
 
-<p style="color:black"> What is a fragment?</p>
-<p style="color:black">
+<p>What is a fragment?</p>
 <ul>
   <li>A rough draft of a poem or loosely-related sentences / phrases </li>
   <li> Descriptive language </li>
@@ -33,25 +30,23 @@ excerpt: "Submit to Spark to Flame"
   <li>Approximately 50-100 words</li>
   <li>Understand and welcome the fact that the final poem may have elements that are not from your own lived experience or identity.</li>
 </ul>
-</p>
 
-<p style="color:black"> How do I write a poem off of the fragment I’m given?</p>
-<p style="color:black">
+
+<p>How do I write a poem off of the fragment I’m given?</p>
 <ul>
-  <li>We want writers to build the spark into something that only they could create. To say <a href= "https://en.wikipedia.org/wiki/Yes,_and...">“yes and…”</a> The spark is the inspiration, but it is not a blueprint, and we give you full permission to burn. Use it. </li>
+  <li>We want writers to build the spark into something that only they could create. To say <a href= "https://en.wikipedia.org/wiki/Yes,_and...">“yes and…”</a> The spark is the inspiration, but it is not a blueprint, and we give you full permission to burn. Use it.</li>
   <li>We encourage writers to incorporate their own lived experiences and identities when writing their final poem, whether or not those elements may have been present in the original spark.</li>
 </ul>
-</p>
 
-<p style="color:black"> Can I submit in multiple categories? </p>
-<p style="color:black">
+
+<p>Can I submit in multiple categories?</p>
+
 <ul>
   <li>Yes, you may submit one finished, co-authored poem and one fragment. You may also check the box to write a poem based off of someone else’s fragment. </li>
   <li>Please do not submit more than one finished poem and one fragment during a single submission period. Wait until you get a response. </li>
 </ul>
 
-<p style="color:black">How long until I hear back?</p>
-<p style="color:black">
+<p>How long until I hear back?</p>
   <ul>
   <li>We aim to respond to all contributors by April 10th. If this changes, we will send out an email update </li>
   <li>Our approximate/ideal timeline for the first issue is:
@@ -64,47 +59,38 @@ excerpt: "Submit to Spark to Flame"
     </li>
   </ul>
 </p>
-
-<p style="color:black"> What happens if I’m selected to write a poem off of someone’s fragment?</p>
-<p style="color:black">
+<p>What happens if I’m selected to write a poem off of someone’s fragment?</p>
 <ul>
 <li> We will email you the anonymized fragment for you to use to create a poem in one month. </li>
-<li> Pending any edits on our side, that poem will be published in the upcoming issue. </li>
-<ul>
-</p>
-
-<p style="color:black"> If I’m selected to write a poem off of someone else’s fragment, does that mean publication of whatever I write is guaranteed?</p>
-
-<p style="color:black"> Pretty much yes, with the following exceptions: 
+<li>Pending any edits on our side, that poem will be published in the upcoming issue. <li>
+</ul>
+<p>If I’m selected to write a poem off of someone else’s fragment, does that mean publication of whatever I write is guaranteed?</p>
+Pretty much yes, with the following exceptions: 
 <ul>
   <li>There is no connection between the fragment and the poem you produced. </li>
   <li>We don’t receive a response from you within the allotted time frame.</li>
   <li>There is a serious thematic issue with your poem that no amount of editing will resolve. (Please see FAQ Question 1 “Basic Guidelines for Poems”).</li>
   <li> If the poem based off of your fragment is rejected, your fragment will be given to someone else to turn into a completed poem for the next issue of the journal.</li>
 </ul>
-</p>
 
-<p style="color:black"> How are bylines written? What if I hate what my co-author wrote off of my fragments?</p>
-<p style="color:black">
+<p>How are bylines written? What if I hate what my co-author wrote off of my fragments?</p>
   <ul>
   <li> Both authors’ names will be included in the byline, but we will distinguish between the author who provided the fragment (spark) and the author who constructed the final poem (flame). For example: By Natalie Wolf (Flame) and Katherine Schmidt (Spark).</li>
   <li> Spark writers should understand that the final poem may have elements that are not from their own lived experiences or identities.</li>
-  </li>
-</p>
-
-<p style="color:black">Do you have submission fees? Do you pay for published poems?</p>
-<p style="color:black">
-  <ul>
-  <li> We do not have submission fees, and at this time we do not pay for published poems.</li>
   </ul>
-</p>
 
-<p style="color:black">By submitting to us, you acknowledge and agree to the following:</p>
-<p style="color:black">
+<p>Do you have submission fees? Do you pay for published poems?</p>
+  <ul>
+  <li> We do not have submission fees, and at this time we do not pay for published poems</li>
+  </ul>
+
+
+<p>By submitting to us, you acknowledge and agree to the following:</p>
 <ul>
   <li>You hold the necessary rights to your work and, when applicable, are acting in accordance with your co-author.</li>
   <li>Upon acceptance, we request first serial rights for publication on our website. Upon publication, rights revert back to the authors.</li>
   <li>Your work will be published and archived in an online-only magazine.</li>
   <li>We retain the right to make minor edits to your author bio to match our in-house style.</li>
 </ul>
+
 </p>
