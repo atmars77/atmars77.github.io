@@ -55,8 +55,7 @@ Please email s2fjournal(at)gmail.com with any questions or queries.</p>
 <ul>
 <li style="color:black"> We will email you the anonymized fragment for you to use to create a poem in one month.</li>
 <li style="color:black">Pending any edits on our side, that poem will be published in the upcoming issue.<li>
-
-
+<p>
 <p style="color:black"> If I’m selected to write a poem off of someone else’s fragment, does that mean publication of whatever I write is guaranteed?</p>
 
 <p style="color:black"> Pretty much yes, with the following exceptions:</p> 
