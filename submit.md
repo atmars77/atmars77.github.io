@@ -39,8 +39,8 @@ To submit, fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQL
 * We aim to respond to all contributors by April 10th. If this changes, we will send out an email update.
 * Our approximate/ideal timeline for the first issue is:
   * April 30, 2023 - Submissions close
-  * May 10th - Contributors will hear back about acceptance
-  * June 10th - Final poems based on fragments due
+  * May 8th - Contributors will hear back about acceptance
+  * June 11th - Final poems based on fragments due
   * July 1st - Launch of the first issue
 
 ### What happens if I’m selected to write a poem off of someone’s fragment?

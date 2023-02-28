@@ -8,7 +8,7 @@ excerpt: "Spark to Flame: A Journal of Collaborative Poetry."
 ---
 S2F is a literary journal that creates connections between poets. We want poets who lean in and say “yes.” Poets who play with language and who are not afraid of what they might make.
 
-We pair poets to co-author poetry anonymously through submissions of “fragments” (sparks). If a fragment is accepted, it is then sent to another author, who turns it into a cohesive poem (flame). You can choose to submit a fragment and edit someone else’s fragment, or to only submit a fragment. We also accept polished, co-authored poetry submissions.
+We pair poets to co-author poetry anonymously through submissions of “fragments” (sparks). If a fragment is accepted, it is then sent to another author, who turns it into a cohesive poem (flame). You can choose to submit a fragment and write off of someone else’s fragment, or to only submit a fragment. We also accept polished, co-authored poetry submissions.
 
 We are currently accepting submissions for our first issue, to be published on our website and promoted on [Twitter](https://twitter.com/s2fjournal). We will be accepting submissions through April 30, 2023.
 
