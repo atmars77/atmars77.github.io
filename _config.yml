@@ -94,7 +94,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Spark to Flame" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/newlogo/newlogo_shape.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/newlogo/newlogo_32.png" # Site logo, also used in jekyll-seo-tag
 description: "A Journal of Collaborative Poetry" # Site description and default description, also used in jekyll-seo-tag
 url: "https://s2fjournal.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
