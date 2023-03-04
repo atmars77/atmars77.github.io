@@ -65,4 +65,5 @@ To submit, fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQL
 * You hold the necessary rights to your work and, when applicable, are acting in accordance with your co-author.
 * Upon acceptance, we request first serial rights for publication on our website. Upon publication, rights revert back to the authors.
 * Your work will be published and archived in an online-only magazine.
+* If you republish the poem elsewhere, we kindly request that you acknowledge Spark to Flame as the first publisher.
 * We retain the right to make minor edits to your author bio to match our in-house style.
