@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## Submit
   Instructions & FAQ
-feature_image: "/assets/Images/tina_candle.jpg"
+feature_image: "/assets/Images/jene_painting.jpg"
 excerpt: "Submit to Spark to Flame"
 ---
 We are currently open for submissions for Issue One. We will be accepting submissions through April 30th.
