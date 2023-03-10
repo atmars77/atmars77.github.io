@@ -67,3 +67,5 @@ To submit, fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQL
 * Your work will be published and archived in an online-only magazine.
 * If you republish the poem elsewhere, we kindly request that you acknowledge Spark to Flame as the first publisher.
 * We retain the right to make minor edits to your author bio to match our in-house style.
+
+<img src="/assets/Images/chill-subs-sticker-clean-1.png" alt="Chill subs listing sticker" style="height: 100px; width:100px;"/>
