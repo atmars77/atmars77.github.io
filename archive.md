@@ -1,9 +1,9 @@
 ---
 title: Archive
 feature_text: |
-  
-  
-feature_image: "/assets/Images/sparkcanva_archive2.png"
+  ## Spark to Flame
+  All Issues
+feature_image: "/assets/Images/tricolor.png"
 excerpt: "Spark to Flame Issues"
 ---
 Issue One forthcoming
