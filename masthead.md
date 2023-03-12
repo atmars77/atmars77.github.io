@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## Masthead
   
-feature_image: "/assets/Images/kasturi_bulb.jpg"
+feature_image: "/assets/Images/tricolorbkg.png"
 excerpt: "Masthead"
 ---
 Katherine Schmidt (co-founder / co-editor) is a researcher and poet currently based in Washington, D.C. Her poetry has been published in 3Elements Literary Review, Unbroken, and New Note Poetry.
