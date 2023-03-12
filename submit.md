@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## Submit
   Instructions & FAQ
-feature_image: "/assets/Images/tricolorbkg.png"
+feature_image: "/assets/Images/kristopher_spark3.jpg"
 excerpt: "Submit to Spark to Flame"
 ---
 We are currently open for submissions for Issue One. We will be accepting submissions through April 30th.
