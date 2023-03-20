@@ -97,7 +97,7 @@ title: "Spark to Flame" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/newlogo/newlogo.svg" # Site logo, also used in jekyll-seo-tag
 description: "A Journal of Collaborative Poetry" # Site description and default description, also used in jekyll-seo-tag
 url: "https://s2fjournal.com" # Site url, also used in jekyll-seo-tag
-baseurl: "https://s2fjournal.com"
+baseurl: ""
 repo: ""
 email: ""
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
