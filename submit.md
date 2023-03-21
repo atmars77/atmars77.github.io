@@ -16,7 +16,7 @@ To submit, fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQL
 * Your standard stuff: interesting, makes us feel things, uses language in an awesome way, does multiple things at once
 * No racism / excessive or hate-based violence / sexism
 * We love shorter poems. No longer than 300 words for the final poem, please.
-* No previously published poems.
+* As of right now, we don't accept poems previously published in lit mags / journals. We do accept poems that have been posted on social media (Twitter / Instagram, for example).
 * Simultaneous submissions are welcome. Please let us know if your work is accepted for publication elsewhere as soon as possible.
 
 ### What is a fragment and what makes a good one?
