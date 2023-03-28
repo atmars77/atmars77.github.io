@@ -3,7 +3,7 @@ title: Archive
 feature_text: |
   ## Spark to Flame
   All Issues
-feature_image: "/assets/Images/kristopher_spark3.jpg"
+feature_image: "/assets/Images/tina_candle.jpg"
 excerpt: "Spark to Flame Issues"
 ---
 Issue One forthcoming
