@@ -76,7 +76,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/newlogo/twocoloredJPGresize.jpg" # Default image for sharing
+      image: "/Images/tina_candle.jpg" # Default image for sharing
   -
     scope:
       path: ""
