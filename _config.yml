@@ -76,7 +76,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/newlogo/twocolored@512px.png" # Default image for sharing
+      image: "/assets/newlogo/twocoloredJPG.jpg" # Default image for sharing
   -
     scope:
       path: ""
