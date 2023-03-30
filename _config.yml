@@ -76,7 +76,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: '/Images/tina_candle.jpg' # Default image for sharing
+      image: "/Images/tina_candle.jpg" # Default image for sharing
   -
     scope:
       path: ""
@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Spark to Flame" # Site name or title, also used in jekyll-seo-tag
 tagline: "A Journal of Collaborative Poetry"
-logo: #"/assets/newlogo/newlogo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/newlogo/twocolored.svg" # Site logo, also used in jekyll-seo-tag
 description: "A Journal of Collaborative Poetry" # Site description and default description, also used in jekyll-seo-tag
 url: "https://s2fjournal.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -111,14 +111,14 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/newlogo/twocolored@16px.png'
-  32: '/assets/newlogo/twocolored@32px.png'
-  96: '/assets/newlogo/twocolored@96px.png'
-  120: '/assets/newlogo/twocolored@120px.png'
-  144: '/assets/newlogo/twocolored@144px.png'
-  180: '/assets/newlogo/twocolored@180px.png'
-  512: '/assets/newlogo/twocolored@512px.png'
-  1024: '/assets/newlogo/twocolored@1024px.png'
+  16: "/assets/newlogo/twocolored@16px.png"
+  32: "/assets/newlogo/twocolored@32px.png"
+  96: "/assets/newlogo/twocolored@96px.png"
+  120: "/assets/newlogo/twocolored@120px.png"
+  144: "/assets/newlogo/twocolored@144px.png"
+  180: "/assets/newlogo/twocolored@180px.png"
+  512: "/assets/newlogo/twocolored@512px.png"
+  1024: "/assets/newlogo/twocolored@1024px.png"
 
 # 9. Site navigation
 navigation_header:
