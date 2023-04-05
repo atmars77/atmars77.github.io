@@ -5,6 +5,7 @@ feature_text: |
   A Journal of Collaborative Poetry
 feature_image: "/assets/Images/tina_candle.jpg" #"https://.."
 excerpt: "Spark to Flame: A Journal of Collaborative Poetry."
+largeimage: "/assets/Images/tina_candle.png"
 ---
 S2F is a literary journal that creates connections between poets. We want poets who lean in and say “yes.” Poets who play with language and who are not afraid of what they might make.
 
