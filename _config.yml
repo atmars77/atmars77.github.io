@@ -41,6 +41,7 @@ jekyll-mentions: #https://twitter.com # jekyll-mentions > service used when @rep
 twitter:
   username: s2fjournal # jekyll-seo-tag > Owners twitter username
 title_image: "assets/Images/tina_candle.png"
+twitter_image: "assets/Images/tina_candle.png"
 author: #DavidDarnes # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: #David Darnes # jekyll-seo-tag > real name
