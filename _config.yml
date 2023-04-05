@@ -76,7 +76,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/Images/tina_candle.jpg" # Default image for sharing
+      image: "/assets/Images/tina_candle.png" # Default image for sharing
   -
     scope:
       path: ""
