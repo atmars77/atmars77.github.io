@@ -5,6 +5,7 @@ feature_text: |
   
 feature_image: "/assets/Images/tina_candle.jpg"
 excerpt: "Masthead"
+largeimage: "/assets/Images/tina_candle.png"
 ---
 Katherine Schmidt (co-founder / co-editor) is a researcher and poet currently based in Washington, D.C. Her work is published or forthcoming in Anti-Heroin Chic, Bullshit Lit, Thimble Literary Magazine, 3Elements Literary Review, Unbroken, and New Note Poetry. 
 
