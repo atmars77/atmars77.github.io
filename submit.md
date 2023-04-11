@@ -37,7 +37,7 @@ To submit, fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQL
 * Please do not submit more than one finished poem and one fragment during a single submission period. Wait until you get a response.
 
 ### How long until I hear back?
-* We aim to respond to all contributors by April 10th. If this changes, we will send out an email update.
+* We aim to respond to all contributors by May 8th. If this changes, we will send out an email update.
 * Our approximate/ideal timeline for the first issue is:
   * April 30, 2023 - Submissions close
   * May 8th - Contributors will hear back about acceptance
