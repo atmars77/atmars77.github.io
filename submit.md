@@ -7,9 +7,7 @@ feature_image: "/assets/Images/tina_candle.jpg"
 excerpt: "Submit to Spark to Flame"
 largeimage: "/assets/Images/tina_candle.png"
 ---
-We are currently open for submissions for Issue One. We will be accepting submissions through April 30th.
-
-To submit, fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScK-5ArvstWpBkvBcw4TYKUSAPVl5In5AHuAPFlRvVUN_zhCA/viewform).
+We are currently closed for submissions for Issue One. Follow our Twitter or this site for updates on our submission window for Issue Two (anticipated October/November 2023).
 
 # FAQ
 
