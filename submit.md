@@ -17,6 +17,7 @@ We are currently closed for submissions for Issue One. Follow our Twitter or thi
 * We love shorter poems. No longer than 300 words for the final poem, please.
 * As of right now, we don't accept poems previously published in lit mags / journals. We do accept poems that have been posted on social media (Twitter / Instagram, for example).
 * Simultaneous submissions are welcome. Please let us know if your work is accepted for publication elsewhere as soon as possible.
+* No Artificial Intelligence (AI) tools should be involved in any step of the poem, fragment, or flame creation.
 
 ### What is a fragment and what makes a good one?
 * A rough draft of a poem or loosely-related sentences / phrases
