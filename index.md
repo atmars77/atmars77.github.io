@@ -24,7 +24,7 @@ Check out the first issue below!
         height="396px" 
         style="display: block; margin: 0 auto" />
 
-<p style ="center">
+<p style="text-align: center;">
   <a href="/assets/Issues/Spark_to_Flame_Issue_One_July_2023.pdf">Issue One</a> 
 </p>
 
