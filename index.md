@@ -13,7 +13,7 @@ We pair poets to co-author poetry anonymously through submissions of “fragment
 
 We are currently closed for submissions right now. For updates, follow us on [Twitter](https://twitter.com/s2fjournal). 
 
-Check out the first issue below.
+Check out the first issue below!
 
 <!---{% include button.html text="Submit" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 -->
@@ -23,8 +23,8 @@ Check out the first issue below.
         width="306px" 
         height="396px" 
         style="display: block; margin: 0 auto" />
-        
-[Issue One](https://atmars77.github.io/assets/Issues/Spark_to_Flame_Issue_One_July_2023.pdf)
+
+<a href="https://atmars77.github.io/assets/Issues/Spark_to_Flame_Issue_One_July_2023.pdf"><p style="text-align:center">Issue One</a>
 
 <!---<img src="/assets/Images/S2F_IssueOne_CoverArt_Renato_Paucar.png" alt="Issue One Cover Art" style="height: 396px; width:306px;"/>
 
