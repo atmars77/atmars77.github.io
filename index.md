@@ -11,7 +11,7 @@ S2F is a literary journal that creates connections between poets. We want poets 
 
 We pair poets to co-author poetry anonymously through submissions of “fragments” (sparks). If a fragment is accepted, it is then sent to another author, who turns it into a cohesive poem (flame). You can choose to submit a fragment and write off of someone else’s fragment, or to only submit a fragment. We also accept polished, co-authored poetry submissions.
 
-We are currently closed for submissions right now. For updates, follow us on [Twitter](https://twitter.com/s2fjournal). 
+We are currently closed for submissions right now. For updates, follow us on [Twitter](https://twitter.com/s2fjournal). You can also reach us at s2fjournal(at)gmail(dot)com.
 
 Check out the first issue below!
 
