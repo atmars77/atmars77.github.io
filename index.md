@@ -11,15 +11,25 @@ S2F is a literary journal that creates connections between poets. We want poets 
 
 We pair poets to co-author poetry anonymously through submissions of “fragments” (sparks). If a fragment is accepted, it is then sent to another author, who turns it into a cohesive poem (flame). You can choose to submit a fragment and write off of someone else’s fragment, or to only submit a fragment. We also accept polished, co-authored poetry submissions.
 
-We are currently closed for submissions right now. For updates, follow us on [Twitter](https://twitter.com/s2fjournal).
+We are currently closed for submissions right now. For updates, follow us on [Twitter](https://twitter.com/s2fjournal). 
+
+Check out the first issue below.
 
 <!---{% include button.html text="Submit" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 -->
 
-<img src="/assets/Images/S2F_IssueOne_CoverArt_Renato_Paucar.png" alt="Issue One Cover Art" style="height: 396px; width:306px;"/>
-
+<img src="/assets/Images/S2F_IssueOne_CoverArt_Renato_Paucar.png" 
+        alt="Issue One Cover Art" 
+        width="306px" 
+        height="396px" 
+        style="display: block; margin: 0 auto" />
+        
 [Issue One](https://atmars77.github.io/assets/Issues/Spark_to_Flame_Issue_One_July_2023.pdf)
 
+<!---<img src="/assets/Images/S2F_IssueOne_CoverArt_Renato_Paucar.png" alt="Issue One Cover Art" style="height: 396px; width:306px;"/>
+
+[Issue One](https://atmars77.github.io/assets/Issues/Spark_to_Flame_Issue_One_July_2023.pdf)
+--->
 
 <!---
 - Available as a **theme gem** and **GitHub Pages** theme
