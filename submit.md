@@ -7,7 +7,7 @@ feature_image: "/assets/Images/tina_candle.jpg"
 excerpt: "Submit to Spark to Flame"
 largeimage: "/assets/Images/tina_candle.png"
 ---
-We are currently closed for submissions for Issue One. Follow our Twitter or this site for updates on our submission window for Issue Two (anticipated October/November 2023).
+We are currently closed for submissions. Follow our Twitter or this site for updates on our submission window for Issue Two (anticipated October/November 2023).
 
 # FAQ
 
@@ -36,12 +36,7 @@ We are currently closed for submissions for Issue One. Follow our Twitter or thi
 * Please do not submit more than one finished poem and one fragment during a single submission period. Wait until you get a response.
 
 ### How long until I hear back?
-* We aim to respond to all contributors by May 8th. If this changes, we will send out an email update.
-* Our approximate/ideal timeline for the first issue is:
-  * April 30, 2023 - Submissions close
-  * May 8th - Contributors will hear back about acceptance
-  * June 11th - Final poems based on fragments due
-  * July 1st - Launch of the first issue
+* We will update our timeline once we open submissions for our second issue.
 
 ### What happens if I’m selected to write a poem off of someone’s fragment?
 * We will email you the anonymized fragment for you to use to create a poem in one month.
@@ -68,4 +63,4 @@ We are currently closed for submissions for Issue One. Follow our Twitter or thi
 * If you republish the poem elsewhere, we kindly request that you acknowledge Spark to Flame as the first publisher.
 * We retain the right to make minor edits to your author bio to match our in-house style.
 
-<img src="/assets/Images/chill-subs-sticker-clean-1.png" alt="Chill subs listing sticker" style="height: 100px; width:100px;"/>
+<img src="/assets/Images/chill-subs-sticker-clean-1.png" alt="Chill subs listing sticker" style="height: 239px; width:365px;"/>
