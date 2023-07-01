@@ -25,7 +25,7 @@ Check out the first issue below!
         style="display: block; margin: 0 auto" />
 
 <p style ="center">
-  <a href="/assets/Issues/Spark_to_Flame_Issue_One_July_2023.pdf">Issue One</a> |
+  <a href="/assets/Issues/Spark_to_Flame_Issue_One_July_2023.pdf">Issue One</a> 
 </p>
 
 <!---<img src="/assets/Images/S2F_IssueOne_CoverArt_Renato_Paucar.png" alt="Issue One Cover Art" style="height: 396px; width:306px;"/>
