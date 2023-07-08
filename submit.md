@@ -7,11 +7,25 @@ feature_image: "/assets/Images/tina_candle.jpg"
 excerpt: "Submit to Spark to Flame"
 largeimage: "/assets/Images/tina_candle.png"
 ---
-We are currently closed for submissions. Follow our Twitter or this site for updates on our submission window for Issue Two (anticipated October/November 2023).
+Spark to Flame is a journal dedicated to collaborative poetry. We pair poets to co-author poetry anonymously through submissions of poetry fragments (sparks). If a fragment is accepted, it is then sent to another author, who turns it into a cohesive poem (flame). You can choose to submit a spark and write off of someone else’s spark, or to only submit a spark. We also accept polished, co-authored poetry submissions.
+
+We are currently closed for submissions. Submissions for Issue Two will open August 15, 2023.
 
 # FAQ
 
-### What are your basic guidelines for poems?
+### What is a spark and what makes a good one?
+* A spark is what we call the poetry fragment. This is the building-block for the flame.
+* It is a rough draft of a poem or loosely-related sentences / phrases
+* Descriptive language
+* Specificity / oddity
+* Give your co-author something to work with!
+* Approximately 50-100 words
+* Understand and welcome the fact that the final poem may have elements that are not from your own lived experience or identity.
+
+## What is a flame?
+* A flame is a complete, polished poem written off of the given spark. It includes a title and is cohesive (or purposely not cohesive). 
+
+### What are your basic guidelines for poems, sparks, and flames?
 * Your standard stuff: interesting, makes us feel things, uses language in an awesome way, does multiple things at once
 * No racism / excessive or hate-based violence / sexism
 * We love shorter poems. No longer than 300 words for the final poem, please.
@@ -19,37 +33,34 @@ We are currently closed for submissions. Follow our Twitter or this site for upd
 * Simultaneous submissions are welcome. Please let us know if your work is accepted for publication elsewhere as soon as possible.
 * No Artificial Intelligence (AI) tools should be involved in any step of the poem, fragment, or flame creation.
 
-### What is a fragment and what makes a good one?
-* A rough draft of a poem or loosely-related sentences / phrases
-* Descriptive language
-* Specificity / oddity
-* Give your co-author something to work with!
-* Approximately 50-100 words
-* Understand and welcome the fact that the final poem may have elements that are not from your own lived experience or identity.
+### How do you assess sparks and match flame writers to sparks?
+* Please see our guidelines above for writing a spark. We assess based on that criteria. We match flame writers to sparks based on overlap of themes. We also have the mission to include as many poets as possible. Because poets may choose to either submit a spark and potentially write a flame or to only submit a spark, that does mean our submissions are unbalanced, i.e. we receive more sparks than poets who sign up to write flames. 
 
-### How do I write a poem off of the fragment I’m given?
+### What happens if I'm selected to write a flame?
+* We will email you the anonymized spark for you to use to create a flame. You will have one week to accept your spark. Please see the timeline listed below.
 * We want writers to build the spark into something that only they could create. To say [“yes and”](https://en.wikipedia.org/wiki/Yes,_and...) The spark is the inspiration, but it is not a blueprint, and we give you full permission to burn. Use it.
 * We encourage writers to incorporate their own lived experiences and identities when writing their final poem, whether or not those elements may have been present in the original spark.
 
-### Can I submit in multiple categories?
-* Yes, you may submit one finished, co-authored poem and one fragment. You may also check the box to write a poem based off of someone else’s fragment.
-* Please do not submit more than one finished poem and one fragment during a single submission period. Wait until you get a response.
-
-### How long until I hear back?
-* We will update our timeline once we open submissions for our second issue.
-
-### What happens if I’m selected to write a poem off of someone’s fragment?
-* We will email you the anonymized fragment for you to use to create a poem in one month.
-* Pending any edits on our side, that poem will be published in the upcoming issue.
-
-### If I’m selected to write a poem off of someone else’s fragment, does that mean publication of whatever I write is guaranteed?
-* Pretty much yes, with the following exceptions:
+### What happens after I submit my flame?
+* It is possible we will ask for edits. 
+* Unless your flame has a serious issue, it will be included in the with the following exceptions:
   * There is no connection between the fragment and the poem you produced.
   * We don’t receive a response from you within the allotted time frame.
   * There is a serious thematic issue with your poem that no amount of editing will resolve. (Please see FAQ Question 1 “Basic Guidelines for Poems”).
-* If the poem based off of your fragment is rejected, your fragment will be given to someone else to turn into a completed poem for the next issue of the journal.
 
-### How are bylines written? What if I hate what my co-author wrote off of my fragments?
+### Can I submit in multiple categories?
+* Yes, you may submit one finished, co-authored poem and one spark. You may also check the box to write a poem based off of someone else’s spark.
+* Please do not submit more than one finished poem and one spark during a single submission period. Wait until you get a response.
+
+### What is your timeline for Issue Two?
+* August 15th 2023: Submissions open
+* October 15th 2023: Submissions close
+* October 22nd - November 1st: Responses sent out
+  * Poets accepted to write a flame will have one week to accept their spark. Poets who do not respond within one week will forfeit their spark, which will then be given to another flame writer.
+* December 1st 2023: Flames due
+* Mid-December 2023: Publication of Issue Two
+
+### How are bylines written?
 * Both authors’ names will be included in the byline, but we will distinguish between the author who provided the fragment (spark) and the author who constructed the final poem (flame). For example: By Natalie Wolf (Flame) and Katherine Schmidt (Spark).
 * Spark writers should understand that the final poem may have elements that are not from their own lived experiences or identities.
 
