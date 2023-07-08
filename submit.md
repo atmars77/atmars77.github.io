@@ -67,6 +67,9 @@ We are currently closed for submissions. Submissions for Issue Two will open Aug
 ### Do you have submission fees? Do you pay for published poems?
 * We do not have submission fees, and at this time we do not pay for published poems.
 
+### Who can submit?
+* Anyone 13 years old or older.
+
 ### By submitting to us, you acknowledge and agree to the following:
 * You hold the necessary rights to your work and, when applicable, are acting in accordance with your co-author.
 * Upon acceptance, we request first serial rights for publication on our website. Upon publication, rights revert back to the authors.
