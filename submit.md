@@ -11,6 +11,8 @@ Spark to Flame is a journal dedicated to collaborative poetry. We pair poets to 
 
 We are currently closed for submissions. Submissions for Issue Two will open August 15, 2023.
 
+NOTE: Starting for Issue Two we will nominate for Best of Net. Please let us know if you don't want to be considered for nomination. When nominating, this means we will share your email and name in conjunction with your co-author through the nomination form.
+
 # FAQ
 
 ### What is a spark and what makes a good one?
