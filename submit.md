@@ -11,6 +11,8 @@ Spark to Flame is a journal dedicated to collaborative poetry. We pair poets to 
 
 Submissions for Issue Two are open from August 15, 2023 to October 15, 2023. Submit using this [Google Form](https://forms.gle/Z4mbdDQmkWViXPYM7).
 
+Read our [interview](https://sixquestionsfor.blogspot.com/2023/10/Spark-To-Flame.html) with Jim Harrison to learn more about what we are looking for from submissions!
+
 NOTE: Starting for Issue Two we will nominate for Best of Net. Please let us know if you don't want to be considered for nomination. When nominating, this means we will share your email and name in conjunction with your co-author through the nomination form.
 
 # FAQ
