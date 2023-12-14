@@ -13,7 +13,7 @@ largeimage: "/assets/Images/tina_candle.png"
 [Issue One](https://atmars77.github.io/assets/Issues/Spark_to_Flame_Issue_One_July_2023.pdf)
 --->
 
-<img src="/assets/Images/S2F_IssueOne_CoverArt_Renato_Paucar.png" 
+<img src="/assets/Images/S2F_IssueTwo_CoverArt_Dawn_Cooper.jpg" 
         alt="Issue One Cover Art" 
         width="306px" 
         height="396px" 
