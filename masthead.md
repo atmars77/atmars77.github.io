@@ -12,10 +12,6 @@ largeimage: "/assets/Images/tina_candle.png"
 
 Renato Paucar is the journal's graphic designer and illustrator.
 
-
-
-
-
 [Natalie Wolf](https://nwolfmeep.wixsite.com/nmwolf) (co-founder / co-editor for issues one & two) will always be a friend of the journal.
 
 
