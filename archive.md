@@ -4,7 +4,6 @@ feature_text: |
   ## Spark to Flame
   All Issues
 feature_image: "/assets/Images/tina_candle.jpg"
-excerpt: "Spark to Flame Issues"
 largeimage: "/assets/Images/tina_candle.png"
 ---
 
@@ -32,3 +31,5 @@ largeimage: "/assets/Images/tina_candle.png"
 <p style="text-align: center;">
   <a href="/assets/Issues/Spark_to_Flame_Issue_One_July_2023.pdf">Issue One</a> 
 </p>
+
+<!--- Feb 11 2024 removing excerpt: "Page Not Found" in title bc of jekyll build issue>
