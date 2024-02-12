@@ -4,7 +4,6 @@ feature_text: |
   ## Submit
   Instructions & FAQ
 feature_image: "/assets/Images/tina_candle.jpg"
-excerpt: "Submit to Spark to Flame"
 largeimage: "/assets/Images/tina_candle.png"
 ---
 Spark to Flame is a journal dedicated to collaborative poetry. We pair poets to co-author poetry anonymously through submissions of poetry fragments (sparks). If a fragment is accepted, it is then sent to another author, who turns it into a cohesive poem (flame). You can choose to submit a spark and write off of someone else’s spark, or to only submit a spark. We also accept polished, co-authored poetry submissions.
@@ -85,3 +84,6 @@ NOTE: Starting for Issue Two we will nominate for Best of Net. Please let us kno
 * We retain the right to make minor edits to your author bio to match our in-house style.
 
 <img src="/assets/Images/chill-subs-sticker-clean-1.png" alt="Chill subs listing sticker" style="height: 239px; width:365px;"/>
+
+
+<!--- Feb 11 2024 removed excerpt: "Submit to Spark to Flame" from title>
