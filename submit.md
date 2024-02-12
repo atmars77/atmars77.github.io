@@ -86,4 +86,4 @@ NOTE: Starting for Issue Two we will nominate for Best of Net. Please let us kno
 <img src="/assets/Images/chill-subs-sticker-clean-1.png" alt="Chill subs listing sticker" style="height: 239px; width:365px;"/>
 
 
-<!--- Feb 11 2024 removed excerpt: "Submit to Spark to Flame" from title>
+<!--- Feb 11 2024 removed excerpt: "Submit to Spark to Flame" from title--->

@@ -15,4 +15,4 @@ largeimage: "/assets/Images/tina_candle.png"
 
 <!---is a writer and cat enthusiast from Kansas City. Her short fiction and poetry have appeared in Unbroken, Right Hand Pointing, Popshot Quarterly, I-70 Review, and Live Ideas. --->
 
-<!---- Feb 11 2024 removed excerpt: "Masthead" from title>
+<!---- Feb 11 2024 removed excerpt: "Masthead" from title--->

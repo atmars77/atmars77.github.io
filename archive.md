@@ -32,4 +32,4 @@ largeimage: "/assets/Images/tina_candle.png"
   <a href="/assets/Issues/Spark_to_Flame_Issue_One_July_2023.pdf">Issue One</a> 
 </p>
 
-<!--- Feb 11 2024 removing excerpt: "Page Not Found" in title bc of jekyll build issue>
+<!--- Feb 11 2024 removing excerpt: "Page Not Found" in title bc of jekyll build issue--->
