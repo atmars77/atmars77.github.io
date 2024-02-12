@@ -76,6 +76,8 @@ NOTE: Starting for Issue Two we will nominate for Best of Net. Please let us kno
 * Anyone 13 years old or older.
 
 ### By submitting to us, you acknowledge and agree to the following:
+* You are thirteen years of age or older.
+* No Artificial Intelligence (AI) tools were used in any step of the poem creation.
 * You hold the necessary rights to your work and, when applicable, are acting in accordance with your co-author.
 * Upon acceptance, we request first serial rights for publication on our website. Upon publication, rights revert back to the authors.
 * Your work will be published and archived in an online-only magazine.
