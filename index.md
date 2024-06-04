@@ -14,7 +14,7 @@ Submissions for Issue Three closed on April 15, 2023. Please see our submit page
 
 For updates, follow us on [Twitter](https://twitter.com/s2fjournal) or Bluesky @s2fjournal.bsky.social. You can also reach us at s2fjournal(at)gmail(dot)com.
 
-Check out Issue Two below!
+Check out Issue Two below.
 
 <!---{% include button.html text="Submit" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 -->
