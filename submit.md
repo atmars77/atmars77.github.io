@@ -8,7 +8,7 @@ largeimage: "/assets/Images/tina_candle.png"
 ---
 Spark to Flame is a journal dedicated to collaborative poetry. We pair poets to co-author poetry anonymously through submissions of poetry fragments (sparks). If a fragment is accepted, it is then sent to another author, who turns it into a cohesive poem (flame). You can choose to submit a spark and write off of someone else’s spark, or to only submit a spark. We also accept polished, co-authored poetry submissions.
 
-Submissions for Issue Three are closed! <!---The Google Form is linked [here](https://forms.gle/U6N8oTxkCgh8uK3i8) and our detailed timeline is below.--->
+Submissions for Issue Four will open in August 2024! See below for a detailed timeline. <!---The Google Form is linked [here](https://forms.gle/U6N8oTxkCgh8uK3i8) and our detailed timeline is below.--->
 
 Read our [interview](https://sixquestionsfor.blogspot.com/2023/10/Spark-To-Flame.html) with Jim Harrison to learn more about what we are looking for from submissions!
 
@@ -16,14 +16,14 @@ NOTE: Starting for Issue Two we will nominate for Best of Net. Please let us kno
 
 # FAQ
 
-### What is your timeline for Issue Three?
-* February 15, 2024: Submissions open
-* April 15, 2024: Submissions close
-* April 22 to May 1, 2024: Responses sent out
-  * Poets accepted to write a flame will have one week to accept their spark. Poets who do not respond within one week will forfeit their spark, which will then be given to another flame writer.
-* June 1, 2024: Flames due
-* June 1 to 8, 2024: If needed, period for communication about edits between EIC and flame writer.
-* June 15, 2024: Publication of Issue Three
+### What is your timeline for Issue Four?
+* August 15, 2024: Submissions open
+* October 15, 2024: Submissions close
+* October 22 to November 1, 2024: Responses sent out
+  * Poets accepted to write a flame will have one week to accept their spark.
+* December 1, 2024: Flames due
+* December 1 to 8, 2024: If needed, period for communication about edits between EIC and flame writer.
+* December 15, 2024: Publication of Issue Four
 
 ### What is a spark and what makes a good one?
 * A spark is what we call the poetry fragment. This is the building-block for the flame.
