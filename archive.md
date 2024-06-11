@@ -12,7 +12,7 @@ largeimage: "/assets/Images/tina_candle.png"
 [Issue One](https://atmars77.github.io/assets/Issues/Spark_to_Flame_Issue_One_July_2023.pdf)
 --->
 
-<!--->
+<!---
 <img src="/assets/Images/S2F_IssueThree_CoverArt_Emma_Bagley.jpg" 
         alt="Issue Three Cover Art" 
         width="306px" 
