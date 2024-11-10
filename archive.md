@@ -41,8 +41,8 @@ largeimage: "/assets/Images/tina_candle.png"
         style="display: block; margin: 0 auto" />
 
 <p style="text-align: center;">
-  <a href="/assets/Issues/Spark_to_Flame_Issue_One_July_2023.pdf">Issue One</a> 
-  <a> Best of the Net 2025 Nominations: "lil beast / my lil baby" and "Fantasm." </a>
+  <a href="/assets/Issues/Spark_to_Flame_Issue_One_July_2023.pdf">Issue One</a>
+  <p> Best of the Net 2025 Nominations: "lil beast / my lil baby" and "Fantasm." </p> 
 </p>
 
 <!--- Feb 11 2024 removing excerpt: "Page Not Found" in title bc of jekyll build issue--->
