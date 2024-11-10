@@ -5,7 +5,7 @@ feature_text: |
 feature_image: "/assets/Images/tina_candle.jpg"
 largeimage: "/assets/Images/tina_candle.png"
 ---
-We are excited to nominate for Best of the Net.
+We are excited to nominate for [Best of the Net](https://bestofthenetanthology.com/).
 
 ## Best of the Net 2025 Nominations:
   * [Issue One](/assets/Issues/Spark_to_Flame_Issue_One_July_2023.pdf): "lil beast / my lil baby."
