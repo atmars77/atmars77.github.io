@@ -133,8 +133,8 @@ navigation_header:
   url: /masthead/
 - title: Issues Archive
   url: /archive/
-# - title: Nominations
-#  url: /nominations/
+- title: Nominations
+  url: /nominations/
 
 navigation_footer:
 - title: Spark to Flame
