@@ -11,7 +11,10 @@ largeimage: "/assets/Images/tina_candle.png"
 
 [Issue One](https://atmars77.github.io/assets/Issues/Spark_to_Flame_Issue_One_July_2023.pdf)
 --->
-
+Best of the Net 2025 Nominations:
+  * Issue One: "lil beast / my lil baby."
+  * Issue Two: "Fantasm" and "On a Sunny Morning, I Teach My Four-Year-Old How To See My Bones From The Outside"
+  * Issue Three: "In this forest," "Where Home Resides," and "Litany of the Anthropocene."</a>
 
 <img src="/assets/Images/S2F_IssueThree_CoverArt_Emma_Bagley.jpg" 
         alt="Issue Three Cover Art" 
@@ -42,13 +45,6 @@ largeimage: "/assets/Images/tina_candle.png"
 
 <p style="text-align: center;">
   <a href="/assets/Issues/Spark_to_Flame_Issue_One_July_2023.pdf">Issue One</a>
-</p>
-
-<p style="text-align: center;">
-  <a> Best of the Net 2025 Nominations:
-      * Issue One: "lil beast / my lil baby."
-      * Issue Two: "Fantasm" and "On a Sunny Morning, I Teach My Four-Year-Old How To See My Bones From The Outside"
-      * Issue Three: "In this forest," "Where Home Resides," and "Litany of the Anthropocene."</a>
 </p>
 
 <!--- Feb 11 2024 removing excerpt: "Page Not Found" in title bc of jekyll build issue--->
