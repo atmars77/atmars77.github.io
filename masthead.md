@@ -6,7 +6,7 @@ feature_image: "/assets/Images/tina_candle.jpg"
 largeimage: "/assets/Images/tina_candle.png"
 ---
 
-[Katherine Schmidt](https://ktschmdt.wordpress.com/creative-writing/) (Co-founder / EIC) is a poet currently based in Washington, D.C. Her work is published in Variant Lit, Roi Fainéant Press, Rejection Letters, Anti-Heroin Chic, 3Elements Literary Review, Unbroken, and elsewhere.
+[Katherine Schmidt](https://ktschmdt.wordpress.com/creative-writing/) (Co-founder / EIC) is a poet currently based in Arlington, Virginia. Her work is published in Pithead Chapel, Lost Balloon, Variant Lit, and elsewhere.
 
 [Renato Paucar](https://www.renatopaucar.com/) is the journal's graphic designer and illustrator.
 
