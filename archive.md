@@ -14,7 +14,7 @@ largeimage: "/assets/Images/tina_candle.png"
 Best of the Net 2025 Nominations:
   * Issue One: "lil beast / my lil baby."
   * Issue Two: "Fantasm" and "On a Sunny Morning, I Teach My Four-Year-Old How To See My Bones From The Outside"
-  * Issue Three: "In this forest," "Where Home Resides," and "Litany of the Anthropocene."</a>
+  * Issue Three: "In this forest," "Where Home Resides," and "Litany of the Anthropocene."
 
 <img src="/assets/Images/S2F_IssueThree_CoverArt_Emma_Bagley.jpg" 
         alt="Issue Three Cover Art" 
