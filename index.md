@@ -14,19 +14,19 @@ Submissions for Issue Five open on February 15, 2025. Please see our submit page
 
 For updates, follow us on [Twitter](https://twitter.com/s2fjournal) or Bluesky @s2fjournal.bsky.social. You can also reach us at s2fjournal(at)gmail(dot)com.
 
-Check out Issue Three below.
+Check out Issue Four below.
 
 <!---{% include button.html text="Submit" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 -->
 
-<img src="/assets/Images/S2F_IssueThree_CoverArt_Emma_Bagley.jpg" 
-        alt="Issue Three Cover Art" 
+<img src="/assets/Images/S2F_IssueFour_CoverArt_EmilyCai.jpg" 
+        alt="Issue Four Cover Art" 
         width="306px" 
         height="396px" 
         style="display: block; margin: 0 auto" />
 
 <p style="text-align: center;">
-  <a href="/assets/Issues/Spark_to_Flame_Issue_Three_June_2024.pdf">Issue Three</a> 
+  <a href="/assets/Issues/Spark_to_Flame_Issue_Four_December_2024">Issue Four</a> 
 </p>
 
 <!---<img src="/assets/Images/S2F_IssueOne_CoverArt_Renato_Paucar.png" alt="Issue One Cover Art" style="height: 396px; width:306px;"/>
