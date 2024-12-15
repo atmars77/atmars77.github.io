@@ -19,7 +19,7 @@ largeimage: "/assets/Images/tina_candle.png"
         style="display: block; margin: 0 auto" />
 
 <p style="text-align: center;">
-  <a href="/assets/Issues/Spark_to_Flame_Issue_Four_December_2024">Issue Four</a> 
+  <a href="/assets/Issues/Spark_to_Flame_Issue_Four_December_2024.pdf">Issue Four</a> 
 </p>
 
 <img src="/assets/Images/S2F_IssueThree_CoverArt_Emma_Bagley.jpg" 

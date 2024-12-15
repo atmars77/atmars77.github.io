@@ -26,7 +26,7 @@ Check out Issue Four below.
         style="display: block; margin: 0 auto" />
 
 <p style="text-align: center;">
-  <a href="/assets/Issues/Spark_to_Flame_Issue_Four_December_2024">Issue Four</a> 
+  <a href="/assets/Issues/Spark_to_Flame_Issue_Four_December_2024.pdf">Issue Four</a> 
 </p>
 
 <!---<img src="/assets/Images/S2F_IssueOne_CoverArt_Renato_Paucar.png" alt="Issue One Cover Art" style="height: 396px; width:306px;"/>
