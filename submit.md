@@ -8,7 +8,7 @@ largeimage: "/assets/Images/tina_candle.png"
 ---
 Spark to Flame is a journal dedicated to collaborative poetry. We pair poets to co-author poetry anonymously through submissions of poetry fragments (sparks). If a fragment is accepted, it is then sent to another author, who turns it into a cohesive poem (flame). You can choose to submit a spark and write off of someone else’s spark, or to only submit a spark. We also accept polished, co-authored poetry submissions.
 
-Submissions for Issue Five open on February 15, 2025. Our detailed timeline is below.
+Submissions for Issue Five are open! Submit using this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd64KJnPEROUf-mnHTxHF6_5P9ODQoxryR9wly1p25KuBFX5A/viewform?usp=dialog). Our detailed timeline is below.
 
 Read our [interview](https://sixquestionsfor.blogspot.com/2023/10/Spark-To-Flame.html) with Jim Harrison to learn more about what we are looking for from submissions!
 
