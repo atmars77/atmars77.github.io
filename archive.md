@@ -11,7 +11,7 @@ largeimage: "/assets/Images/tina_candle.png"
 
 [Issue One](https://atmars77.github.io/assets/Issues/Spark_to_Flame_Issue_One_July_2023.pdf)
 --->
-<!---
+
 <img src="/assets/Images/S2F_IssueFive_CoverArt_MariaTaibo.jpg" 
         alt="Issue Five Cover Art" 
         width="306px" 
@@ -19,9 +19,9 @@ largeimage: "/assets/Images/tina_candle.png"
         style="display: block; margin: 0 auto" />
 
 <p style="text-align: center;">
-  <a href="/assets/Issues/Spark_to_Flame_Issue_Four_December_2024.pdf">Issue Five</a> 
+  <a href="/assets/Issues/Spark_to_Flame_Issue_Five_June_2025.pdf">Issue Five</a> 
 </p>
--->
+
 <img src="/assets/Images/S2F_IssueFour_CoverArt_EmilyCai.jpg" 
         alt="Issue Four Cover Art" 
         width="306px" 
@@ -41,7 +41,6 @@ largeimage: "/assets/Images/tina_candle.png"
 <p style="text-align: center;">
   <a href="/assets/Issues/Spark_to_Flame_Issue_Three_June_2024.pdf">Issue Three</a> 
 </p>
-
 
 <img src="/assets/Images/S2F_IssueTwo_CoverArt_Dawn_Cooper.jpg" 
         alt="Issue Two Cover Art" 
