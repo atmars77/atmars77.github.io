@@ -8,7 +8,7 @@ largeimage: "/assets/Images/tina_candle.png"
 ---
 Spark to Flame is a journal dedicated to collaborative poetry. We pair poets to co-author poetry anonymously through submissions of poetry fragments (sparks). If a fragment is accepted, it is then sent to another author, who turns it into a cohesive poem (flame). You can choose to submit a spark and write off of someone else’s spark, or to only submit a spark. We also accept polished, co-authored poetry submissions.
 
-Submissions for Issue Five are closed.
+Submissions for Issue Six will open August 16, 2025.
 
 Read our [interview](https://sixquestionsfor.blogspot.com/2023/10/Spark-To-Flame.html) with Jim Harrison to learn more about what we are looking for from submissions!
 
@@ -16,7 +16,7 @@ NOTE: We nominate for Best of Net. Please let us know if you don't want to be co
 
 # FAQ
 
-### What is your timeline for Issue Five?
+<!--
 * February 15, 2025: Submissions open
 * April 13, 2025: Submissions close
 * April 20 - May 1, 2025: Responses sent out
@@ -24,6 +24,15 @@ NOTE: We nominate for Best of Net. Please let us know if you don't want to be co
 * June 1, 2025: Flames due
 * June 1 to 8, 2025: If needed, period for communication about edits between EIC and flame writer.
 * June 15, 2025: Publication of Issue Five
+-->
+### What is your timeline for Issue Six?
+* August 16, 2025: Submissions open
+* October 12, 2025: Submissions close
+* October 19 - October 30, 2025: Responses sent out
+  * Poets accepted to write a flame will have one week to accept their spark.
+* November 30, 2025: Flames due
+* November 30 - December 7, 2025: If needed, period for communication about edits between EIC and flame writer.
+* December 14, 2025: Publication of Issue Five
 
 ### What is a spark and what makes a good one?
 * A spark is what we call the poetry fragment. This is the building-block for the flame.
