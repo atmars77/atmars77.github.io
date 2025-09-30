@@ -8,7 +8,7 @@ largeimage: "/assets/Images/tina_candle.png"
 We are excited to nominate for [Best of the Net](https://bestofthenetanthology.com/).
 
 ## Best of the Net 2026 Nominations:
-  * [Issue Four](/assets/Issues/Spark_to_Flame_Issue_Four_December_2024.pdf"): "here in the dreaming."
+  * [Issue Four](/assets/Issues/Spark_to_Flame_Issue_Four_December_2024.pdf): "here in the dreaming."
   * [Issue Five](/assets/Issues/Spark_to_Flame_Issue_Five_June_2025.pdf): "Outside the Garden" and "fire."
 
 ## Best of the Net 2025 Nominations:
