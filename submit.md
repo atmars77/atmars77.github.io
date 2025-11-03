@@ -32,7 +32,7 @@ NOTE: We nominate for Best of Net. Please let us know if you don't want to be co
   * Poets accepted to write a flame will have one week to accept their spark.
 * November 30, 2025: Flames due
 * November 30 - December 7, 2025: If needed, period for communication about edits between EIC and flame writer.
-* December 14, 2025: Publication of Issue Five
+* December 14, 2025: Publication of Issue Six
 
 ### What is a spark and what makes a good one?
 * A spark is what we call the poetry fragment. This is the building-block for the flame.
