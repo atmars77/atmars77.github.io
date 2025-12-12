@@ -16,6 +16,7 @@ NOTE: We nominate for Best of Net. Please let us know if you don't want to be co
 
 # FAQ
 
+### What is your timeline for Issue Seven?
 * February 15, 2026: Submissions open
 * April 12, 2026: Submissions close
 * April 18 - May 3, 2026: Responses sent out
@@ -34,6 +35,7 @@ NOTE: We nominate for Best of Net. Please let us know if you don't want to be co
 * November 30 - December 7, 2025: If needed, period for communication about edits between EIC and flame writer.
 * December 14, 2025: Publication of Issue Six
 -->
+
 ### What is a spark and what makes a good one?
 * A spark is what we call the poetry fragment. This is the building-block for the flame.
 * It is a rough draft of a poem or loosely-related sentences / phrases
