@@ -10,23 +10,23 @@ S2F is a literary journal that creates connections between poets. We want poets 
 
 We pair poets to co-author poetry anonymously through submissions of “fragments” (sparks). If a fragment is accepted, it is then sent to another author, who turns it into a cohesive poem (flame). You can choose to submit a fragment and write off of someone else’s fragment, or to only submit a fragment. We also accept polished, co-authored poetry submissions.
 
-Submissions for Issue Six are now closed! Check out our submit page for more information.
+Submissions for Issue Seven will open in February 2026! Check out our submit page for more information.
 
 For updates, follow us on [Twitter](https://twitter.com/s2fjournal) or Bluesky @s2fjournal.bsky.social. You can also reach us at s2fjournal(at)gmail(dot)com.
 
-Check out Issue Five below!
+Check out Issue Six below!
 
 <!---{% include button.html text="Submit" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 -->
 
-<img src="/assets/Images/S2F_IssueFive_CoverArt_MariaTaibo.jpg" 
+<img src="/assets/Images/S2F_IssueSix_CoverArt_SophiaMay.jpg" 
         alt="Issue Six Cover Art" 
         width="306px" 
         height="396px" 
         style="display: block; margin: 0 auto" />
 
 <p style="text-align: center;">
-  <a href="/assets/Issues/Spark_to_Flame_Issue_Five_June_2025.pdf">Issue Five</a> 
+  <a href="/assets/Issues/Spark_to_Flame_Issue_Six_December_2025.pdf">Issue Six</a> 
 </p>
 
 <!---<img src="/assets/Images/S2F_IssueOne_CoverArt_Renato_Paucar.png" alt="Issue One Cover Art" style="height: 396px; width:306px;"/>
