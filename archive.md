@@ -12,7 +12,7 @@ largeimage: "/assets/Images/tina_candle.png"
 [Issue One](https://atmars77.github.io/assets/Issues/Spark_to_Flame_Issue_One_July_2023.pdf)
 --->
 
-<!---
+
 <img src="/assets/Images/S2F_IssueSix_CoverArt_SophiaMay.jpg" 
         alt="Issue Six Cover Art" 
         width="306px" 
@@ -22,7 +22,7 @@ largeimage: "/assets/Images/tina_candle.png"
 <p style="text-align: center;">
   <a href="/assets/Issues/Spark_to_Flame_Issue_Six_December_2025.pdf">Issue Six</a> 
 </p>
---->
+
 
 <img src="/assets/Images/S2F_IssueFive_CoverArt_MariaTaibo.jpg" 
         alt="Issue Five Cover Art" 
