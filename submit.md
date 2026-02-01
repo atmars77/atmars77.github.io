@@ -94,6 +94,9 @@ NOTE: We nominate for Best of Net. Please let us know if you don't want to be co
 * If you republish the poem elsewhere, we kindly request that you acknowledge Spark to Flame as the first publisher.
 * We retain the right to make minor edits to your author bio to match our in-house style.
 
+### What are your values?
+* S2F is anti-fascist and pro-queer.
+
 <img src="/assets/Images/chill-subs-sticker-clean-1.png" alt="Chill subs listing sticker" style="height: 239px; width:365px;"/>
 
 
