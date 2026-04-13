@@ -10,7 +10,7 @@ S2F is a literary journal that creates connections between poets. We want poets 
 
 We pair poets to co-author poetry anonymously through submissions of “fragments” (sparks). If a fragment is accepted, it is then sent to another author, who turns it into a cohesive poem (flame). You can choose to submit a fragment and write off of someone else’s fragment, or to only submit a fragment. We also accept polished, co-authored poetry submissions.
 
-Submissions for Issue Seven are open now! Check out our submit page for more information.
+Submissions for Issue Seven are closed.
 
 For updates, follow us on Bluesky @s2fjournal.bsky.social. As of April 2026, we started an instagram at [sparktoflamejournal](https://www.instagram.com/sparktoflamejournal). You can also reach us at s2fjournal(at)gmail(dot)com.
 
