@@ -12,7 +12,7 @@ We pair poets to co-author poetry anonymously through submissions of “fragment
 
 Submissions for Issue Seven are closed.
 
-For updates, follow us on Bluesky @s2fjournal.bsky.social. As of April 2026, we started an instagram at [sparktoflamejournal](https://www.instagram.com/sparktoflamejournal). You can also reach us at s2fjournal(at)gmail(dot)com.
+For updates, follow us on Bluesky @s2fjournal.bsky.social. As of April 2026, we started an instagram at [s2fjournal](https://www.instagram.com/s2fjournal). You can also reach us at s2fjournal(at)gmail(dot)com.
 
 Check out Issue Six below!
 
