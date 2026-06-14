@@ -27,7 +27,7 @@ Check out Issue Seven below!
         style="display: block; margin: 0 auto" />
 
 <p style="text-align: center;">
-  <a href="/assets/Issues/Spark_to_Flame_Issue_Seven_June2026.pdf">Issue Seven</a> 
+  <a href="/assets/Issues/Spark_to_Flame_Issue_Seven_June_2026.pdf">Issue Seven</a> 
 </p>
 -->
 
