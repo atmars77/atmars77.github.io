@@ -20,7 +20,7 @@ largeimage: "/assets/Images/tina_candle.png"
         style="display: block; margin: 0 auto" />
 
 <p style="text-align: center;">
-  <a href="/assets/Issues/Spark_to_Flame_Issue_Six_December_2025.pdf">Issue Six</a> 
+  <a href="/assets/Issues/Spark_to_Flame_Issue_Seven_June2026.pdf">Issue Seven</a> 
 </p>
 --->
 
