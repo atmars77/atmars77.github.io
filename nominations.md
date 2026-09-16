@@ -7,6 +7,11 @@ largeimage: "/assets/Images/tina_candle.png"
 ---
 We are excited to nominate for [Best of the Net](https://bestofthenetanthology.com/).
 
+
+## Best of the Net 2027 Nominations:
+  * [Issue Six](/assets/Issues/Spark_to_Flame_Issue_Six_December_2025.pdf): "We Write What We Know" and "Aurora"
+  * [Issue Seven](/assets/Issues/Spark_to_Flame_Issue_Five_June_2025.pdf): "A Brother’s Gotta Tell Me Goodbye" and "Lost Sea"
+
 ## Best of the Net 2026 Nominations:
   * [Issue Four](/assets/Issues/Spark_to_Flame_Issue_Four_December_2024.pdf): "here in the dreaming."
   * [Issue Five](/assets/Issues/Spark_to_Flame_Issue_Five_June_2025.pdf): "Outside the Garden" and "fire."
