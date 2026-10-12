@@ -10,7 +10,7 @@ Spark to Flame is a journal dedicated to collaborative poetry. We pair poets to 
 
 Submissions for Issue Eight are closed!
 
-<!--> Please use this [Google Form](https://forms.gle/R8Mn2xL83NGA1HFb6) to submit. If you have issues, email us at s2fjournal at gmail.com.-->
+<!--Please use this [Google Form](https://forms.gle/R8Mn2xL83NGA1HFb6) to submit. If you have issues, email us at s2fjournal at gmail.com.-->
 
 Read our [interview](https://sixquestionsfor.blogspot.com/2023/10/Spark-To-Flame.html) with Jim Harrison to learn more about what we are looking for from submissions!
 
