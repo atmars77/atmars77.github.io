@@ -6,7 +6,7 @@ feature_image: "/assets/Images/tina_candle.jpg"
 largeimage: "/assets/Images/tina_candle.png"
 ---
 
-[Katherine Schmidt](https://www.katherineschmidt.com) (Co-founder / EIC) is a poet currently based in Washington, D.C. Her work is published in Gone Lawn, Pithead Chapel, Lost Balloon, and elsewhere.
+[Katherine Schmidt](https://www.katherineschmidt.com) (Co-founder / EIC) is published in Gone Lawn, Pithead Chapel, Lost Balloon, and elsewhere, and runs the queer reading series, On Fire, based in Washington, D.C.
 
 [Renato Paucar](https://www.renatopaucar.com/) is the journal's graphic designer and illustrator.
 
